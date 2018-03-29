@@ -1,0 +1,2 @@
+The file named "first_alphabet_index_file" in the database directory has to contain "{}" this at least.
+If it does not contain anything, it gives an error.
